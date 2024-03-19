@@ -1,0 +1,10 @@
+setup.py
+selfi_sys_public.egg-info/PKG-INFO
+selfi_sys_public.egg-info/SOURCES.txt
+selfi_sys_public.egg-info/dependency_links.txt
+selfi_sys_public.egg-info/top_level.txt
+selfisys/global_parameters.py
+selfisys/prior.py
+selfisys/sbmy_blackbox.py
+selfisys/selection_functions.py
+selfisys/setup_model.py
